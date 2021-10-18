@@ -5,14 +5,20 @@
 // import MainContainer from "./component/ex4.2/mainContainer";
 // import Quiz from './component/ex3.2/Quiz';
 // import BtnContainer from "./component/ex4.1/btnContainer";
+// import Box1 from './component/ex3.1/box1';
+// import Sumplusone from "./component/ex7.1/counterComponent";
+// import MainContainer from "./component/ex4.2/mainContainer";
+import Showhide from "./component/ex7.2/showhide";
 // }
+// 
 
-import Box1 from './component/ex3.1/box1';
+
+
 
 function App() {
   return (
      <div>
-        <Box1/> 
+       <Showhide/>
     </div>
   );
 }
@@ -27,6 +33,10 @@ function App() {
         {/* <Quiz/> */}
         {/* <BtnContainer/> */}
         // <MainContainer/>
+        // <Box1/> 
+        // <Sumplusone/>
+        
+        {/* <MainContainer/> */}
 //}
 
 export default App;
