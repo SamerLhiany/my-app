@@ -11,6 +11,7 @@ import MainContainer from "./component/ex4.2/mainContainer";
 function App() {
   return (
      <div>
+       text
       <MainContainer/>
     </div>
   );
