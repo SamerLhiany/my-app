@@ -1,0 +1,44 @@
+.main-container {
+    display: flex;
+}
+
+.container {
+    margin: 1rem;
+    display: flex;
+    flex-direction: column;
+    
+    justify-content: center;
+    width: 30vw;
+    border: 1px solid black;
+}
+
+img {
+    height: 30vh;
+    width:43.5vh ;
+}
+
+.shareexplore {
+    width: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+    margin: 1rem;
+    
+}
+
+.shareexplore a {
+    text-decoration: none;
+    color: #f7ca00 ;
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+
+p {
+    font-weight: 500;
+    font-size: large;
+}
+
+h2 {
+    font-size: 2rem;
+}

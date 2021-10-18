@@ -1,25 +1,31 @@
-import logo from './logo.svg';
-import './App.css';
+// {
+  // import Helloworld from './component/ex2.2/index';
+// import Sum from './component/ex2.2/sum';
+// import String1 from './component/ex2.2/string1';
+// import Box1 from './component/ex3.1/box1';
+// import Quiz from './component/ex3.2/Quiz';
+// import BtnContainer from "./component/ex4.1/btnContainer";
+// }
+import MainContainer from "./component/ex4.2/mainContainer";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+     <div>
+      <MainContainer/>
     </div>
   );
 }
+
+
+
+
+//{
+        {/* <Helloworld/>
+        <Sum/>
+        <String1/> */}
+        {/* <Box1/> */}
+        {/* <Quiz/> */}
+        {/* <BtnContainer/> */}
+//}
 
 export default App;
