@@ -1,0 +1,12 @@
+.styles {
+    animation: slideIn 1s linear;
+  }
+  
+  @keyframes slideIn {
+    0% {
+      transform: translateX(-100px);
+    }
+    100% {
+      transform: translateX(0);
+    }
+  }
