@@ -16,14 +16,15 @@
 // import Myjoke from "./component/ex12.1/api";
 // import Appp from "./component/ex11.2/component/Appp";
 // import CheckBox from "./component/ex11.2/checkBox";
+// import Webview from "./component/ex11.3/webView";
 // }
 
-import Webview from "./component/ex11.3/webView";
+
 
 function App() {
 	return (
 		<div>
-			<Webview/>
+			
 		</div>
 	);
 }
@@ -58,6 +59,7 @@ function App() {
 	//   <Appp />
 }
 {/* <CheckBox/> */}
+{/* <Webview/> */}
 
 //}
 
