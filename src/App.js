@@ -19,8 +19,10 @@
 // import Webview from "./component/ex11.3/webView";
 // import { TextShow } from "./component/ex18.1/textshow";
 // import { ToDoList } from "./component/ex18.2/todoapp";
-import { Apicall } from "./component/ex19.2/api";
+// import { Apicall } from "./component/ex19.2/api";
+// import Alogolia from "./component/ex19.3/indes";
 // }
+
 
 
 
@@ -28,7 +30,7 @@ import { Apicall } from "./component/ex19.2/api";
 function App() {
 	return (
 		<div>
-			<Apicall/> 
+			
 		</div>
 	);
 }
@@ -67,6 +69,9 @@ function App() {
 {/* <TextShow/> */}
 {/* <ToDoList/> */}
 {/* <FetchStarWars/> */}
+
+{/* <Alogolia/> */}
+{/* <Apicall/>  */}
 
 //}
 
