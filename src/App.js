@@ -17,14 +17,15 @@
 // import Appp from "./component/ex11.2/component/Appp";
 // import CheckBox from "./component/ex11.2/checkBox";
 // import Webview from "./component/ex11.3/webView";
+// import { TextShow } from "./component/ex18.1/textshow";
 // }
-
+import { ToDoList } from "./component/ex18.2/todoapp";
 
 
 function App() {
 	return (
 		<div>
-			
+			<ToDoList/>
 		</div>
 	);
 }
@@ -60,7 +61,7 @@ function App() {
 }
 {/* <CheckBox/> */}
 {/* <Webview/> */}
-
+{/* <TextShow/> */}
 //}
 
 export default App;
