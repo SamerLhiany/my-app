@@ -1,0 +1,18 @@
+body {
+ background: rgb(82, 82, 82);
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+ li {
+     display: grid;
+     margin: 2px;
+     padding: 5px;
+     list-style: none;
+     border: 1px white solid;
+ }

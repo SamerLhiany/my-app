@@ -21,8 +21,10 @@
 // import { ToDoList } from "./component/ex18.2/todoapp";
 // import { Apicall } from "./component/ex19.2/api";
 // import Alogolia from "./component/ex19.3/indes";
+// import { CheckBox } from "./component/ex18.4";
+// import { Users } from "./component/ex17.1/Users";
 // }
-
+import { Customers2 } from "./component/ex17.1/customers"; 
 
 
 
@@ -30,7 +32,7 @@
 function App() {
 	return (
 		<div>
-			
+			<Customers2/>
 		</div>
 	);
 }
@@ -72,7 +74,8 @@ function App() {
 
 {/* <Alogolia/> */}
 {/* <Apicall/>  */}
-
+{/* <CheckBox/> */}
+{/* <Users/> */}
 //}
 
 export default App;
